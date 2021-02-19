@@ -12,6 +12,7 @@
 		AC1CCC6325DF65E100AACFA6 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC1CCC6225DF65E100AACFA6 /* HomeViewController.swift */; };
 		AC1CCC6825DF65E100AACFA6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC1CCC6725DF65E100AACFA6 /* Assets.xcassets */; };
 		AC1CCC6B25DF65E100AACFA6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC1CCC6925DF65E100AACFA6 /* LaunchScreen.storyboard */; };
+		AC1CCC7825DF796900AACFA6 /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC1CCC7725DF796900AACFA6 /* HomeScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		AC1CCC6725DF65E100AACFA6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AC1CCC6A25DF65E100AACFA6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AC1CCC6C25DF65E100AACFA6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC1CCC7725DF796900AACFA6 /* HomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				AC1CCC5E25DF65E100AACFA6 /* AppDelegate.swift */,
 				AC1CCC6025DF65E100AACFA6 /* SceneDelegate.swift */,
 				AC1CCC6225DF65E100AACFA6 /* HomeViewController.swift */,
+				AC1CCC7725DF796900AACFA6 /* HomeScreen.swift */,
 				AC1CCC6725DF65E100AACFA6 /* Assets.xcassets */,
 				AC1CCC6925DF65E100AACFA6 /* LaunchScreen.storyboard */,
 				AC1CCC6C25DF65E100AACFA6 /* Info.plist */,
@@ -133,6 +136,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC1CCC7825DF796900AACFA6 /* HomeScreen.swift in Sources */,
 				AC1CCC6325DF65E100AACFA6 /* HomeViewController.swift in Sources */,
 				AC1CCC5F25DF65E100AACFA6 /* AppDelegate.swift in Sources */,
 				AC1CCC6125DF65E100AACFA6 /* SceneDelegate.swift in Sources */,
